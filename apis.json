@@ -1,0 +1,77 @@
+{
+    "name": "EDGAR Online",
+    "description": "EDGAR Online, a division of R.R. Donnelley & Sons Company is a leading provider of financial data & analytics to corporations & institutional investors.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10142-edgar-online.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/edgar-online\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EDGAR Online",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10142-edgar-online.jpg",
+            "humanURL": "http:\/\/www.edgar-online.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Applications",
+            "url": "http:\/\/developer.edgar-online.com\/showcase"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/edgar-online"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.edgar-online.com\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/developer.edgar-online.com\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "support@edgar-online.com"
+        },
+        {
+            "type": "Errors",
+            "url": "http:\/\/developer.edgar-online.com\/docs\/errors"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/developer.edgar-online.com\/faq"
+        },
+        {
+            "type": "Rate Limits",
+            "url": "http:\/\/developer.edgar-online.com\/docs\/rate_limits"
+        },
+        {
+            "type": "Registration",
+            "url": "http:\/\/developer.edgar-online.com\/member\/register"
+        },
+        {
+            "type": "Support",
+            "url": "http:\/\/developer.edgar-online.com\/support"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EDGAR_Online"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.edgar-online.com\/"
+        }
+    ]
+}
